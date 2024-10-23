@@ -1,5 +1,3 @@
----
-
 # 🛒 Amazon Clone
 
 This is a fully responsive front-end clone of Amazon's homepage, built with HTML, CSS, and FontAwesome. The project mimics key features of Amazon's e-commerce platform, including a navbar, search bar, categories, and a footer.
